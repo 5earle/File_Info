@@ -1,4 +1,4 @@
-# File_Info
+# File_Information
 The purpose of this Repor is to make it easy to get various pieces of info about a given file on disk
 
 **before getting staretd make sure that you have python 3.6** 

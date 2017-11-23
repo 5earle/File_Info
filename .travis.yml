@@ -8,6 +8,3 @@ python:
   - "3.5"
   - "3.6"
   - "3.6.2"
-# command to run tests
-script:
-  - pytest # or py.test for Python versions 3.5 and below

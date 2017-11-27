@@ -1,0 +1,3 @@
+Building a Ruby Project - Travis CI
+https://docs.travis-ci.com/user/languages/ruby/
+What This Guide Covers; Specifying Ruby versions and implementations; Default Build Script; Dependency Management; JRuby: Testing against multiple JDKs ...

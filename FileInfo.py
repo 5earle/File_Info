@@ -1,11 +1,10 @@
-import os
-from sys import argv
+
 
 
 class Files():
     theFile=""
 
-    
+
     def __init__(self,file):
         self.theFile = file
 
@@ -46,4 +45,3 @@ def main(fileString):
         print("File Could Not Be Found.")
 
 main(*argv[1:])
-

@@ -7,4 +7,4 @@ python:
 
 script:
 
-  - python Fileinfo.py testFile.txt
+  - python sha1Digest.py

@@ -7,4 +7,4 @@ python:
 
 script:
 
-  - python FileInfo.py
+  - python FileInfo.py testFile.txt

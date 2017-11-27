@@ -10,4 +10,4 @@ python:
 
 script:
 
-  - python FileInfo.py testFile.txt
+  - python unitTest.py

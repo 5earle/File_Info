@@ -3,9 +3,7 @@
 <p align="center">
   <img width="500" height="50" src="https://user-images.githubusercontent.com/8709806/33444205-a3a22f72-d5c7-11e7-91d4-02522b6a6a96.JPG">
 </p>
-<br/>
-<br/>
-The purpose of this Library is to make it easy to get various pieces of information about a given file on  your local disk. here is a list of some functionality
+# The purpose of this Library is to make it easy to get various pieces of information about a given file on  your local disk. here is a list of some functionality
 
     Prints the given filename without the absulute path.
 

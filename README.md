@@ -1,8 +1,13 @@
 ![coollogo](https://user-images.githubusercontent.com/8709806/33443694-32914d46-d5c6-11e7-8fde-4537f1c9cafe.png)
 
+
 <p align="center">
   <img width="500" height="50" src="https://user-images.githubusercontent.com/8709806/33444205-a3a22f72-d5c7-11e7-91d4-02522b6a6a96.JPG">
 </p>
+
+
+
+
 
 ## The purpose of this Library is to make it easy to get various pieces of information about a given file on  your local disk. here is a list of some functionality:
 
@@ -11,8 +16,11 @@
     Prints out the file Size.
 
     Creates a hash key from SHA! And MD% digest
-
-
+    
+    
+  
+  
+  
 ## Installation instructions:
 1. Clone the Repo using terminal or GitBash
 2. Navigate to the Folder
@@ -26,11 +34,11 @@ Content Table For Easy Navigation.
 | Full Code      | [fileInfo.py](https://github.com/5earle/File_Info/blob/master/FileInfo.py)       | 
 | Sha1 | [Sha1.py](https://github.com/5earle/File_Info/blob/master/sha1Digest.py)      |  
 
-Example of *Available methods*
+## Example of *Available methods*
 
-1. ()FileName
-2. ()FileSize
-3. ()isFile
-4. ()ReadCmdLine
-5. ()ShA1
-6. ()MD%
+1. [()FileName]()
+2. [()FileSize]()
+3. [()isFile]()
+4. [()ReadCmdLine]()
+5. [()ShA1]()
+6. [()MD%]()

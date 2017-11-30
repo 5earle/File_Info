@@ -5,20 +5,20 @@ from sys import argv
 class Files():
     theFile=""
 
-
+   #initilize incomeing file#
     def __init__(self,file):
         self.theFile = file
-
+     #returns the tail of the path#
     def fileName(self):
         self.tail = os.path.basename(self.theFile)
         return "file name: "+self.tail
 
-
+    #get file size#
     def fileSize(self):
         self.size = os.path.getsize(self.theFile)
         return str(self.size)
 
-
+   #checking if its a file
     def isFile(self):
         if not os.path.isfile(self.theFile):
             return False
@@ -44,5 +44,5 @@ def main(fileString):
 
     else:
         print("File Could Not Be Found.")
-
+#uncommnet this code for commad line usage#
 #main(*argv[1:])

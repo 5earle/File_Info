@@ -5,9 +5,17 @@
 </p>
 <br/>
 <br/>
-**The purpose of this Library is to make it easy to get various pieces of information about a given file on  your local disk**
+The purpose of this Library is to make it easy to get various pieces of information about a given file on  your local disk
 
-## Geting started:
+## Installation instructions:
 1. Clone the Repo using terminal or GitBash
 2. Navigate to the Folder
 3. run command python FileInfo.py "path/file" 
+
+Content Table For Easy Navigation.
+
+| Name          | Path          |    
+| ------------- |:-------------:|
+| Travis Ci      | [unitTest.py](https://github.com/5earle/File_Info/blob/master/unitTest.py) | 
+| Full Code      | [fileInfo.py](https://github.com/5earle/File_Info/blob/master/FileInfo.py)       | 
+| Sha1 | [Sha1.py](https://github.com/5earle/File_Info/blob/master/sha1Digest.py)      |  

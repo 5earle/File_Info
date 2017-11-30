@@ -44,5 +44,5 @@ def main(fileString):
 
     else:
         print("File Could Not Be Found.")
-#uncommnet this code for commad line usage#
+#remove commnet for cmd line usage#
 #main(*argv[1:])

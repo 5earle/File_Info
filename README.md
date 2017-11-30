@@ -42,3 +42,13 @@ Content Table For Easy Navigation.
 4. [()ReadCmdLine]()
 5. [()ShA1]()
 6. [()MD%]()
+
+## Python Depencies
+
+ 1. - "3.2"
+ 2. - "3.3"
+ 3. - "3.4"
+ 4. - "3.5"
+ 5. - "3.6
+ 
+ ## [LICENSE](https://github.com/5earle/File_Info/blob/master/LICENSE)

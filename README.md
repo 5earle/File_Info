@@ -42,8 +42,8 @@ Content Table For Easy Navigation.
 
 ## Python Depencies
 
- - 2.7
- - 3.6
+ - 2.x
+ - 3.x
 
  
  ## Contribute

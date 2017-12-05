@@ -10,11 +10,9 @@
 
 ## The purpose of this Library is to make it easy to get various pieces of information about a given file on  your local disk. here is a list of some functionality:
 
-    Prints the given filename without the absulute path.
-
-    Prints out the file Size.
-
-    Creates a hash key from SHA! And MD% digest
+   - Prints the given filename without the absulute path.
+   - Prints out the file Size.
+   - Creates a hash key from SHA! And MD% digest
     
     
   
@@ -50,4 +48,4 @@ Content Table For Easy Navigation.
  4. - "3.5"
  5. - "3.6
  
- ## [LICENSE](https://github.com/5earle/File_Info/blob/master/LICENSE)
+

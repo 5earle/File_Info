@@ -1,7 +1,7 @@
 ![coollogo](https://user-images.githubusercontent.com/8709806/33443694-32914d46-d5c6-11e7-8fde-4537f1c9cafe.png)
 
 [![Build](https://travis-ci.org/5earle/File_Info.svg?branch=master)](https://travis-ci.org/5earle/File_Info)
-[![Python](https://img.shields.io/pypi/pyversions/toapi.svg)](https://pypi.python.org/pypi/toapi/)
+[![Python]()]()
 
 
 

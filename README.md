@@ -33,12 +33,12 @@ Content Table For Easy Navigation.
 
 ## Example of *Available methods*
 
-1. [()FileName]()
-2. [()FileSize]()
-3. [()isFile]()
-4. [()ReadCmdLine]()
-5. [()ShA1]()
-6. [()MD%]()
+1. get file name
+2. get file size
+3. read file
+4. take cmd input
+5. create SHA1 digest
+6. create MD5 digest
 
 ## Python Depencies
 

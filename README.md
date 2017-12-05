@@ -6,9 +6,8 @@
 
 
 
-
-
-## The purpose of this Library is to make it easy to get various pieces of information about a given file on  your local disk. here is a list of some functionality:
+## overview
+The purpose of this Library is to make it easy to get various pieces of information about a given file on  your local disk. here is a list of some functionality:
 
    - Prints the given filename without the absulute path.
    - Prints out the file Size.

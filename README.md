@@ -1,7 +1,8 @@
 ![coollogo](https://user-images.githubusercontent.com/8709806/33443694-32914d46-d5c6-11e7-8fde-4537f1c9cafe.png)
 
 [![Build](https://travis-ci.org/5earle/File_Info.svg?branch=master)](https://travis-ci.org/5earle/File_Info)
-[![Python]()]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/5earle/File_Info/blob/master/LICENSE)
+
 
 
 

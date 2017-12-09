@@ -7,11 +7,11 @@
 
 
 ## overview
-The purpose of this Library is to make it easy to get various pieces of information about a given file on  your local disk. here is a list of some functionality:
+The purpose of this Library is to make it easy to get various pieces of information about a given file on  your local disk. Here is a list of some functionality:
 
    - Prints the given filename without the absulute path.
    - Prints out the file Size.
-   - Creates a hash key from SHA! And MD% digest
+   - Creates a hash key from SHA1 And MD5 digest
     
     
   
@@ -20,7 +20,7 @@ The purpose of this Library is to make it easy to get various pieces of informat
 ## Installation instructions:
 1. Clone the Repo using terminal or GitBash
 2. Navigate to the Folder
-3. run command python FileInfo.py "path/file" 
+3. Run command python FileInfo.py "path/file" 
 
 Content Table For Easy Navigation.
 
